@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#app {
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#app .model-3d {
+  width: 80vw;
+  height: 80vh;
+
+  display: flex;
+  /* i */
+  justify-content: center;
+  align-items: center;
+
+  border: solid black 1px;
+  padding: 10px;
+}
